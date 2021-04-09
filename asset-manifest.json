@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Image-recognition-app_front-end/static/css/main.7b786f0a.chunk.css",
+    "main.js": "/Image-recognition-app_front-end/static/js/main.a00ea7d4.chunk.js",
+    "main.js.map": "/Image-recognition-app_front-end/static/js/main.a00ea7d4.chunk.js.map",
+    "runtime-main.js": "/Image-recognition-app_front-end/static/js/runtime-main.95601290.js",
+    "runtime-main.js.map": "/Image-recognition-app_front-end/static/js/runtime-main.95601290.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Image-recognition-app_front-end/static/css/2.fe359a49.chunk.css",
+    "static/js/2.5e984608.chunk.js": "/Image-recognition-app_front-end/static/js/2.5e984608.chunk.js",
+    "static/js/2.5e984608.chunk.js.map": "/Image-recognition-app_front-end/static/js/2.5e984608.chunk.js.map",
+    "static/js/3.115eadd8.chunk.js": "/Image-recognition-app_front-end/static/js/3.115eadd8.chunk.js",
+    "static/js/3.115eadd8.chunk.js.map": "/Image-recognition-app_front-end/static/js/3.115eadd8.chunk.js.map",
+    "index.html": "/Image-recognition-app_front-end/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Image-recognition-app_front-end/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.7b786f0a.chunk.css.map": "/Image-recognition-app_front-end/static/css/main.7b786f0a.chunk.css.map",
+    "static/js/2.5e984608.chunk.js.LICENSE.txt": "/Image-recognition-app_front-end/static/js/2.5e984608.chunk.js.LICENSE.txt",
+    "static/media/Brain.8a63781c.png": "/Image-recognition-app_front-end/static/media/Brain.8a63781c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95601290.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.5e984608.chunk.js",
+    "static/css/main.7b786f0a.chunk.css",
+    "static/js/main.a00ea7d4.chunk.js"
+  ]
+}
